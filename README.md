@@ -36,3 +36,4 @@ npm run dev
 ```sh
 npm run build
 ```
+Praktikum Vue.js — Modul 0 dan Modul 1
